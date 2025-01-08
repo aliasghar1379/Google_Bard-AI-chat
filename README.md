@@ -1,6 +1,6 @@
-#### This project is not working anymore
+# This project is not working anymore
 
-# Google Bard AI Chat
+## Google Bard AI Chat
 
 A Python implementation for interacting with Google's Bard AI using unofficial API methods. This project provides a simple interface to send and receive data from Google Bard's language model.
 
