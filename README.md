@@ -1,4 +1,4 @@
-# This project is not working anymore
+# This project is dead don't try it if you do you do ...
 
 ## Google Bard AI Chat
 
